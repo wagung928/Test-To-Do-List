@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\CreatingKanbanSample.csproj": {}
+    "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\CreatingKanbanSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\CreatingKanbanSample.csproj": {
+    "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\CreatingKanbanSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\CreatingKanbanSample.csproj",
+        "projectUniqueName": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\CreatingKanbanSample.csproj",
         "projectName": "CreatingKanbanSample",
-        "projectPath": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\CreatingKanbanSample.csproj",
+        "projectPath": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\CreatingKanbanSample.csproj",
         "packagesPath": "C:\\Users\\Wahyu Agung Utomo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\",
+        "outputPath": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

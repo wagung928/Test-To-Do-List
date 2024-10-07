@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntG2xUhCXds=",
+  "dgSpecHash": "e7+8f78J17E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\CreatingKanbanSample.csproj",
+  "projectFilePath": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\CreatingKanbanSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wahyu Agung Utomo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Wahyu Agung Utomo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

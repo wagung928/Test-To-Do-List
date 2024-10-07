@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreatingKanbanSample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b68d17f4078e8dce71025bdc11539191af0142")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreatingKanbanSample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreatingKanbanSample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

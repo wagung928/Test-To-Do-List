@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TGnxddtqdFA9sgiPdb52tqdrg/IGHn4r1ru8QjX8Lt8=",
+  "Hash": "/At05Syc0/4lfBQfbZWGms1Ea695/lTJa/mKhz1psBg=",
   "Source": "CreatingKanbanSample",
   "BasePath": "_content/CreatingKanbanSample",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "CreatingKanbanSample\\wwwroot",
       "Source": "CreatingKanbanSample",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "Pattern": "**"
     }
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "C:\\Users\\Wahyu Agung Utomo\\.nuget\\packages\\syncfusion.blazor.themes\\23.1.40\\staticwebassets\\tailwind-dark.css"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CreatingKanbanSample.styles.css",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CreatingKanbanSample.styles.css",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "CreatingKanbanSample.styles.css",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CreatingKanbanSample.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CreatingKanbanSample.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CreatingKanbanSample.bundle.scp.css",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CreatingKanbanSample.bundle.scp.css",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "CreatingKanbanSample.bundle.scp.css",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CreatingKanbanSample.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CreatingKanbanSample.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\css\\site.css",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\favicon.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Andrew Fuller.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Andrew Fuller.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Andrew Fuller.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Andrew Fuller.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Janet Leverling.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Janet Leverling.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Janet Leverling.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Janet Leverling.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Laura callahan.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Laura callahan.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Laura callahan.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Laura callahan.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Margaret hamilt.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Margaret hamilt.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Margaret hamilt.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Margaret hamilt.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Michael suyama.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Michael suyama.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Michael suyama.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Michael suyama.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Nancy Davloio.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Nancy Davloio.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Nancy Davloio.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Nancy Davloio.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Robert King.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Robert King.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Robert King.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Robert King.png"
     },
     {
-      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\images\\Steven walker.png",
+      "Identity": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\images\\Steven walker.png",
       "SourceId": "CreatingKanbanSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Downloads\\blazor-kanban-board-features-master v1.1\\Test Sigmatech 2024-10-02 v.1.0\\WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wahyu Agung Utomo\\Documents\\BlazorGithub2\\WEB\\wwwroot\\",
       "BasePath": "_content/CreatingKanbanSample",
       "RelativePath": "images/Steven walker.png",
       "AssetKind": "All",

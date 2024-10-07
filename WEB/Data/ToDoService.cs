@@ -31,7 +31,27 @@ namespace CreatingKanbanSample.Data
         {
             try
             {
-                kanbanModel.Title = "AC - " + kanbanModel.Title;
+                // Mencari nomor urut terbesar yang sudah ada
+                var lastKanban = await _applicationDbContext.KanbanModel
+                                    .OrderByDescending(k => k.Id)
+                                    .FirstOrDefaultAsync();
+
+                int nextNumber = 1;
+
+                if (lastKanban != null)
+                {
+                    // Mengambil nomor urut terakhir dari activity_no yang ada
+                    var lastNumberStr = lastKanban.Id.ToString().Replace("AC - ", "");
+                    if (int.TryParse(lastNumberStr, out int lastNumber))
+                    {
+                        nextNumber = lastNumber + 1;
+                    }
+                }
+
+                // Set nilai activity_no dengan format yang unik
+                kanbanModel.activity_no = $"AC - {nextNumber.ToString("D4")}"; // D4 untuk padding 4 digit (AC - 0001, AC - 0002, dst)
+
+                // Menambahkan ke database
                 await _applicationDbContext.KanbanModel.AddAsync(kanbanModel);
                 await _applicationDbContext.SaveChangesAsync();
                 return true;

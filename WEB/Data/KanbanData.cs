@@ -8,6 +8,7 @@ namespace CreatingKanbanSample.Data
     {
         [Key]
         public int Id { get; set; }
+        public string activity_no { get; set; }
         public string Title { get; set; }
         public string Status { get; set; }
         public string Summary { get; set; }

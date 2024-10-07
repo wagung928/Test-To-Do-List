@@ -16,9 +16,10 @@
             <KanbanColumn HeaderText="@item.HeaderText" KeyField="@item.KeyField"></KanbanColumn>
         }
     </KanbanColumns>
-    <KanbanCardSettings HeaderField="Title" ContentField="Summary"></KanbanCardSettings>
+    <KanbanCardSettings HeaderField="activity_no" ContentField="Summary"></KanbanCardSettings>
     <KanbanDialogSettings>
         <KanbanDialogSettingsFields>
+            <KanbanDialogSettingsField Text="activity_no" Key="activity_no" Type=DialogFieldType.TextBox></KanbanDialogSettingsField>
             <KanbanDialogSettingsField Text="Title" Key="Title" Type=DialogFieldType.TextBox></KanbanDialogSettingsField>
             <KanbanDialogSettingsField Text="Status" Key="Status" Type=DialogFieldType.DropDown></KanbanDialogSettingsField>
             <KanbanDialogSettingsField Text="Summary" Key="Summary" Type=DialogFieldType.TextArea></KanbanDialogSettingsField>

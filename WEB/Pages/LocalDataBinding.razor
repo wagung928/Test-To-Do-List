@@ -1,0 +1,128 @@
+﻿@page "/ToDoHome"
+@using CreatingKanbanSample.Data
+@using Syncfusion.Blazor.Kanban
+
+@inject ToDoService todoService
+
+<h3>Local Data To Do</h3>
+<NavLink class="nav-link" href="addbutton">
+    <span class="oi oi-plus" aria-hidden="true">Add New ToDo</span>
+</NavLink>
+
+<SfKanban KeyField="Status" DataSource="TodoObj" Height="480px">
+    <KanbanColumns>
+        @foreach (ColumnModel item in columnData)
+        {
+            <KanbanColumn HeaderText="@item.HeaderText" KeyField="@item.KeyField"></KanbanColumn>
+        }
+    </KanbanColumns>
+    <KanbanCardSettings HeaderField="Title" ContentField="Summary"></KanbanCardSettings>
+    <KanbanDialogSettings>
+        <KanbanDialogSettingsFields>
+            <KanbanDialogSettingsField Text="Title" Key="Title" Type=DialogFieldType.TextBox></KanbanDialogSettingsField>
+            <KanbanDialogSettingsField Text="Status" Key="Status" Type=DialogFieldType.DropDown></KanbanDialogSettingsField>
+            <KanbanDialogSettingsField Text="Summary" Key="Summary" Type=DialogFieldType.TextArea></KanbanDialogSettingsField>
+        </KanbanDialogSettingsFields>
+    </KanbanDialogSettings>
+    <KanbanEvents TValue="KanbanModel" ActionComplete="ActionComplete" DragStart="@DragStart" DragStop="@DragStop"></KanbanEvents>
+</SfKanban>
+
+@code {
+    List<KanbanModel> TodoObj;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            TodoObj = await Task.Run(() => todoService.GetAllToDo());
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error during initialization: {ex.Message}");
+        }
+    }
+
+    private async Task ActionComplete(ActionEventArgs<KanbanModel> args)
+    {
+        try
+        {
+            var changedRecords = args.ChangedRecords;
+            var removeRecords = args.DeletedRecords;
+
+            if (args.RequestType.ToLower() == "cardchange")
+            {
+                if (changedRecords is IEnumerable<KanbanModel> records)
+                {
+                    foreach (var updatedTask in records)
+                    {
+                        if (updatedTask != null)
+                        {
+                            Console.WriteLine($"Updated Task ID: {updatedTask.Id}, Title: {updatedTask.Title}");
+                            await todoService.UpdateToDoDetails(updatedTask);
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Failed to cast ChangedRecords to IEnumerable<KanbanModel>.");
+                }
+                TodoObj = await todoService.GetAllToDo();
+            }
+
+            if (args.RequestType.ToLower() == "cardremove")
+            {
+                if (removeRecords is IEnumerable<KanbanModel> records)
+                {
+                    foreach (var updatedTask in records)
+                    {
+                        if (updatedTask != null)
+                        {
+                            Console.WriteLine($"Removed Task ID: {updatedTask.Id}, Title: {updatedTask.Title}");
+                            await todoService.DeleteToDo(updatedTask);
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Failed to cast DeletedRecords to IEnumerable<KanbanModel>.");
+                }
+                TodoObj = await todoService.GetAllToDo();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error during action completion: {ex.Message}");
+        }
+    }
+
+    public void DragStart(DragEventArgs<KanbanModel> args)
+    {
+        try
+        {
+            Console.WriteLine("Drag started from " + args.Data[0].Status);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error during drag start: {ex.Message}");
+        }
+    }
+
+    private async void DragStop(DragEventArgs<KanbanModel> args)
+    {
+        try
+        {
+            var updatedTask = args.Data[0] as KanbanModel;
+            await todoService.UpdateToDoDetails(updatedTask);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error during drag stop: {ex.Message}");
+        }
+    }
+
+    private List<ColumnModel> columnData = new List<ColumnModel>() {
+        new ColumnModel(){ HeaderText= "To Do", KeyField= new List<string>() { "Open" } },
+        new ColumnModel(){ HeaderText= "In Progress", KeyField= new List<string>() { "InProgress" } },
+        new ColumnModel(){ HeaderText= "Done", KeyField= new List<string>() { "Close" } }
+    };
+}

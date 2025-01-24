@@ -1,0 +1,279 @@
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.csproj.AssemblyReference.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.AssemblyInfoInputs.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.AssemblyInfo.cs
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.RazorAssemblyInfo.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.RazorAssemblyInfo.cs
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\appsettings.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.staticwebassets.runtime.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.exe
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.deps.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.runtimeconfig.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.pdb
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Core.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Data.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Kanban.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Lists.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Themes.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.CreatingKanbanSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.build.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\bundle\CreatingKanbanSample.styles.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\projectbundle\CreatingKanbanSample.bundle.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\Creating.12C4D024.Up2Date
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\refint\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.pdb
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.genruntimeconfig.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\obj\Debug\net7.0\ref\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\appsettings.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.staticwebassets.runtime.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.exe
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.deps.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.runtimeconfig.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\CreatingKanbanSample.pdb
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Core.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Data.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Kanban.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Lists.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Blazor.Themes.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.csproj.AssemblyReference.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.AssemblyInfoInputs.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.AssemblyInfo.cs
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.RazorAssemblyInfo.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.RazorAssemblyInfo.cs
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.CreatingKanbanSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.build.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\bundle\CreatingKanbanSample.styles.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\scopedcss\projectbundle\CreatingKanbanSample.bundle.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\Creating.12C4D024.Up2Date
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\refint\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.pdb
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\CreatingKanbanSample.genruntimeconfig.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\obj\Debug\net7.0\ref\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02\blazor-kanban-board-features-master\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\appsettings.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\CreatingKanbanSample.staticwebassets.runtime.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\CreatingKanbanSample.exe
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\CreatingKanbanSample.deps.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\CreatingKanbanSample.runtimeconfig.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\CreatingKanbanSample.pdb
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Core.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Data.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Kanban.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Lists.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Blazor.Themes.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.csproj.AssemblyReference.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.AssemblyInfoInputs.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.AssemblyInfo.cs
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.RazorAssemblyInfo.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.RazorAssemblyInfo.cs
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets\msbuild.CreatingKanbanSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets\msbuild.build.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CreatingKanbanSample.props
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\scopedcss\bundle\CreatingKanbanSample.styles.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\scopedcss\projectbundle\CreatingKanbanSample.bundle.scp.css
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\Creating.12C4D024.Up2Date
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\refint\CreatingKanbanSample.dll
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.pdb
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\CreatingKanbanSample.genruntimeconfig.cache
+C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\obj\Debug\net7.0\ref\CreatingKanbanSample.dll

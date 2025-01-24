@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CreatingKanbanSample
+build_property.RootNamespace = CreatingKanbanSample
+build_property.ProjectDir = C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Wahyu Agung Utomo\Downloads\blazor-kanban-board-features-master v1.1\Test Sigmatech 2024-10-02 v.1.0\WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Pages/AddButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Pages/LocalDataBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxEYXRhQmluZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7de6z3a3un
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6z88t2eo0r
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahyu Agung Utomo/Downloads/blazor-kanban-board-features-master v1.1/Test Sigmatech 2024-10-02 v.1.0/WEB/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

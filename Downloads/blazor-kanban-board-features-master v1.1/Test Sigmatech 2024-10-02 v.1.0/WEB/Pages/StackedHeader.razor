@@ -1,0 +1,34 @@
+﻿@page "/stacked-header"
+
+<h3>Stacked Header</h3>
+
+<SfKanban TValue="KanbanModel" KeyField="Status" DataSource="Tasks" Height="400px">
+    <KanbanColumns>
+         @foreach (ColumnModel item in columnData)
+            {
+                 <KanbanColumn HeaderText="@item.HeaderText" KeyField="@item.KeyField"></KanbanColumn>
+            }
+    </KanbanColumns>
+    <KanbanStackedHeaders>
+            @foreach (StackedHeaderModel item in stackedHeaderData)
+            {
+                <KanbanStackedHeader Text="@item.Text" KeyFields="@item.KeyFields"></KanbanStackedHeader>
+            }
+        </KanbanStackedHeaders>
+    <KanbanCardSettings HeaderField="Title" ContentField="Summary"></KanbanCardSettings>
+</SfKanban>
+
+@code {
+    List<KanbanModel> Tasks = new KanbanModel().GetTaskDetails();
+    private List<ColumnModel> columnData = new List<ColumnModel>() {
+        new ColumnModel(){ HeaderText= "Open", KeyField= new List<string>() { "Open" } },
+        new ColumnModel(){ HeaderText= "In Progress", KeyField= new List<string>() { "InProgress" } },
+        new ColumnModel(){ HeaderText= "Testing", KeyField= new List<string>() { "Testing" } },
+        new ColumnModel(){ HeaderText= "Done", KeyField= new List<string>() { "Close" } }
+    };
+     private List<StackedHeaderModel> stackedHeaderData = new List<StackedHeaderModel>() {
+        new StackedHeaderModel(){ Text= "To Do", KeyFields= new List<string>() { "Open" } },
+        new StackedHeaderModel(){ Text= "Development Phase", KeyFields= new List<string>() { "InProgress", "Testing" } },
+        new StackedHeaderModel(){ Text= "Completed", KeyFields= new List<string>() { "Close" } }
+    };
+}

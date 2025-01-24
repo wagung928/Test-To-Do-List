@@ -1,0 +1,64 @@
+name: pembekalan_flutter
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #plugin untuk save data sederhana (variabel saja)
+  shared_preferences: ^2.3.5
+  #date picker
+  #intl: ^0.20.1 #issue fixing easy_localization
+  intl: ">=0.19.0 <=0.20.1"
+
+  #untuk http connection
+  http: ^1.2.2
+
+  #untuk loading
+  progress_dialog_null_safe: ^3.0.0
+  #membuat carousel image
+  carousel_slider: ^5.0.0
+  #PinchZoom untuk nge zoom
+  pinch_zoom: ^2.0.0
+  zoom_pinch_overlay: ^1.4.3
+  #image picker untuk get file camera dan galery
+  image_picker: ^1.1.2
+  #DB Local CRUD
+  sqflite: ^2.4.1
+
+  #path ini untuk handle file eksternal dan web explorer
+  path: ^1.9.0
+  #untuk location akurat
+  geolocator: ^13.0.2
+  #untuk handle map dari google
+  google_maps_flutter: ^2.10.0
+  #untuk menambahkan link agar bisa di handle dan terbaca url launcher nya
+  url_launcher: ^6.3.1
+  #untuk memasang kompas pada maps google
+  flutter_compass: ^0.8.1
+  #OCR text Recognizer
+  google_mlkit_text_recognition: ^0.14.0
+
+  #untuk Translate multi bahasa
+  easy_localization: ^3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  #untuk mendaftarkan berbagai assets image yang akan digunakan
+  assets:
+    - assets/images/
+      #untuk mendaftarkan assets translate/multi bahasa
+    - assets/translation/
+  fonts:
+    - family: BiomeRegular
+      fonts:
+        - asset: assets/fonts/biome_regular.ttf

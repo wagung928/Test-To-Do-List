@@ -1,0 +1,25 @@
+﻿@page "/wipcolumn"
+
+<h3> WIP validation </h3>
+
+<SfKanban TValue="KanbanModel" KeyField="Status" DataSource="Tasks" ConstraintType=ConstraintType.Column Height="400px">
+    <KanbanColumns>
+    @foreach (ColumnModel item in columnData)
+    {
+        <KanbanColumn HeaderText="@item.HeaderText" KeyField="@item.KeyField" MinCount='@item.MinCount' MaxCount='@item.MaxCount'></KanbanColumn>
+    }
+    </KanbanColumns>
+    <KanbanCardSettings HeaderField="Title" ContentField="Summary"></KanbanCardSettings>
+    <KanbanSwimlaneSettings KeyField="Assignee" TextField="Assignee" AllowDragAndDrop=false ShowItemCount=true SortDirection=SortDirection.Ascending ShowEmptyRow=true>
+    </KanbanSwimlaneSettings>
+</SfKanban>
+
+@code {
+    List<KanbanModel> Tasks = new KanbanModel().GetTaskDetails();
+    private List<ColumnModel> columnData = new List<ColumnModel>() {
+        new ColumnModel(){ HeaderText= "To Do", KeyField= new List<string>() { "Open" }, MinCount = 3, MaxCount = 10 },
+        new ColumnModel(){ HeaderText= "In Progress", KeyField= new List<string>() { "InProgress" }, MinCount = 5, MaxCount = 8 },
+        new ColumnModel(){ HeaderText= "Testing", KeyField= new List<string>() { "Testing" }, MaxCount = 5 },
+        new ColumnModel(){ HeaderText= "Done", KeyField= new List<string>() { "Close" }, MinCount = 15 }
+    };
+}

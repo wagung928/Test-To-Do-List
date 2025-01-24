@@ -1,0 +1,69 @@
+﻿@page "/addbutton"
+@using CreatingKanbanSample.Data
+@inject ToDoService todoServcie
+@inject NavigationManager NavigationManager
+<h3>Add New To Do</h3>
+<hr />
+<form>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="for-group">
+                <label for="Title" class="control-label">Title</label>
+                <input form="Title" class="form-control" @bind="@obj.Title" />
+            </div>
+            <div class="for-group">
+                <label for="Status" class="control-label">Status</label>
+                <select form="Status" class="form-control" @bind="@obj.Status">
+                    <option value="Open">Open</option>
+                    <option value="InProgress">In Progress</option>
+                    <option value="Close">Done</option>
+                </select>
+            </div>
+            <div class="for-group">
+                <label for="Summary" class="control-label">Summary</label>
+                <input form="Summary" class="form-control" @bind="@obj.Summary" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="button" class="btn btn-primary" @onclick="@CreateNewToDo" value="Save To Do" />
+                <input type="button" class="btn btn-danger" @onclick="@Cancel" value="Cancel" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@code {
+    KanbanModel obj = new KanbanModel();
+    private string errorMessage;
+    protected override void OnInitialized()
+    {
+        obj.Status = "Open";
+    }
+    protected async void CreateNewToDo()
+    {
+        try
+        {
+            await todoServcie.AddNewToDo(obj);
+            NavigationManager.NavigateTo("ToDoHome");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error: {ex.Message}";
+        }
+    }
+
+    protected void Cancel()
+    {
+        try
+        {
+            NavigationManager.NavigateTo("ToDoHome");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error: {ex.Message}";
+        }
+    }
+}
